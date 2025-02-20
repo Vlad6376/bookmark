@@ -18,7 +18,7 @@
 1. **Клонируйте репозиторий**  
 
     git clone https://github.com/Vlad6376/bookmark.git
-    cd YOUR_REPO_NAME
+    cd bookmark
 
 2.  **Установите зависимости**
 
